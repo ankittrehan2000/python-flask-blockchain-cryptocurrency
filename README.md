@@ -2,7 +2,7 @@
 A simple implementation of a blockchain made from python and flask
 
 The  `blockchain.py` file sets up the blockchain that `ankitcoin.py` uses in order to create a cryptocurrency.
-Also the `ankitcoin_ico.sol` was used to create my first smart contract.
+Also the `ankitcoin_ico.sol` was used to create my first and small smart contract.
 
 # Images of blockchain running on flask
 
